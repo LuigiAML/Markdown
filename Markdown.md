@@ -290,7 +290,6 @@ Lo cual nos muestra como resultado
 
 ---
 ### TABLAS 
----
 
 Las tablas en markdown se realizan de una forma bastante rudimentaria, como si estuviesemos dibujando
 
