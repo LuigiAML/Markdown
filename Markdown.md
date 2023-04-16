@@ -103,7 +103,7 @@ la palabra ~~error~~ está tachada
 ---
 #### *CITAS* 
 
-Para introducir citas lo que tenemos que hacer s usar \> al principio de la linea de esta.
+Para introducir citas lo que tenemos que hacer es usar \> al principio de la linea de esta.
 
 #### *EJEMPLO*
 >"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo"
